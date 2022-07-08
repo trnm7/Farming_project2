@@ -14,7 +14,7 @@ This project aims to showcase the HTML and CSS design concepts that has been cov
 # Live Page
 ************************
 # Contact Informantion
-Incase of any enquiries or contributions, be sure to email me at []
+Incase of any enquiries or contributions, be sure to email me at [    ]
 # License
 MIT Licence<br>
 

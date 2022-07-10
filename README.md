@@ -12,8 +12,7 @@ This project aims to showcase the HTML and CSS design concepts that has been cov
 *Open index.html file on your browser
 
 # Live Page
-https://trnm7.github.io/Farming_project2/
-
+************************
 # Contact Informantion
 Incase of any enquiries or contributions, be sure to email me at [    ]
 # License

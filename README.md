@@ -7,7 +7,6 @@ This project aims to showcase the HTML and CSS design concepts that has been cov
 *CSS<br>
 # Setup instructions
 *Open the Terminal command line: [CTRL+ALT+T]<br>
-*Clone the repository: [git clone https://github.com/trnm7/Farming_project2.git]<br>
 *Change Directory: [cd Farming_project2]<br>
 *Open index.html file on your browser
 
